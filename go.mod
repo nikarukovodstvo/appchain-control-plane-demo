@@ -1,4 +1,4 @@
-module github.com/mnikitenkov/appchain-control-plane-demo
+module github.com/nikarukovodstvo/appchain-control-plane-demo
 
 go 1.26
 
