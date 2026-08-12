@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/mnikitenkov/appchain-control-plane-demo/internal/configstore"
+	"github.com/nikarukovodstvo/appchain-control-plane-demo/internal/configstore"
 )
 
 func main() {
